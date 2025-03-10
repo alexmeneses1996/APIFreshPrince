@@ -41,7 +41,21 @@
             "image_3":"https://res.cloudinary.com/dqgbna4ni/image/upload/v1741628589/lrmawigvh30amg7rdod5.png"
         }
 
-]}
+],
+
+"users": [
+    {
+        "id": "1",
+        "name": "Admin",
+        "email": "admin@freshPrince.com",
+        "password": "12345"
+    }
+
+]
+
+
+}
+
 
 
 
