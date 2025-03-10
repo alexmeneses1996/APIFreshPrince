@@ -1,0 +1,16 @@
+{
+  "name": "apidevelop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json-server": "^0.17.3",
+    "cors": "^2.8.5"
+  }
+}
